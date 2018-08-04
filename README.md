@@ -3,7 +3,10 @@ ReactJS. Résultat du premier projet du tutoriel ReactJS pour débutants. Applic
 
 # Usage
 cd to the project folder and execute:
-npm install
-npm start
+
+`npm install`
+
+`npm start
+`
 
 Node.js (https://nodejs.org) required
